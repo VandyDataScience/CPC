@@ -88,11 +88,15 @@ All files which appear in the repo should be able to run, and not contain error 
 # Contact Info
 
 Sawan Ahmed, sawan.a.ahmed@vanderbilt.edu, Product Manager (PM)
+
 Allan Zhang, allan.w.zhang@vanderbilt.edu, Developer
+
 Isa Dominguez, isa.a.dominguez@vanderbilt.edu, Developer
+
 Rohan Rashingkar, rohan.v.rashingkar@vanderbilt.edu, Developer
+
 Maya Maciel-Seidman, maya.l.maciel-seidman@vanderbilt.edu, Developer
 
-#StakeHolder Info
+# StakeHolder Info
 
 John Tumminello, john@conservancyonline.com, President of Centennial Park Conservatory
