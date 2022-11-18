@@ -1,4 +1,4 @@
-# repo-template-python
+# Centennial Park Conservatory
 This is a template repository for data science projects done in Python.
 
 ### Using this template
@@ -87,4 +87,12 @@ All files which appear in the repo should be able to run, and not contain error 
 
 # Contact Info
 
-Add contact information for any project stakeholders. Include name, email and title. 
+Sawan Ahmed, sawan.a.ahmed@vanderbilt.edu, Product Manager (PM)
+Allan Zhang, allan.w.zhang@vanderbilt.edu, Developer
+Isa Dominguez, isa.a.dominguez@vanderbilt.edu, Developer
+Rohan Rashingkar, rohan.v.rashingkar@vanderbilt.edu, Developer
+Maya Maciel-Seidman, maya.l.maciel-seidman@vanderbilt.edu, Developer
+
+#StakeHolder Info
+
+John Tumminello, john@conservancyonline.com, President of Centennial Park Conservatory
