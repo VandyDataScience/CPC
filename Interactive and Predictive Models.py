@@ -89,14 +89,15 @@ def runAwarenessModel (awareness) :
     model = LogisticRegression()
     model.fit(X_train, y_train)
     y_pred = model.predict(X_test)
-    print(awareness)
     print('Predictions: ', y_pred)
     accuracy = accuracy_score(y_test, y_pred)
     print('Accuracy: ', accuracy)
     
 #run model for locals aware of CPC
+print("Aware of CPC")
 runAwarenessModel("Yes")
 #run model for locals unaware of CPC
+print("Not aware of CPC")
 runAwarenessModel("No")
     
 
