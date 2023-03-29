@@ -1,4 +1,4 @@
-# Centennial Park Conservatory
+# The Centennial Park Conservatory
 This is a template repository for data science projects done in Python.
 
 ### Using this template
