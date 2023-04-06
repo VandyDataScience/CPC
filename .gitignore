@@ -2,6 +2,9 @@
 *.DS_Store
 client_oauth.py
 
+# Next file
+.next/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
